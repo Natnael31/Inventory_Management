@@ -1,0 +1,2 @@
+1,BMW,1,90000,Car,Fast
+2,Apple,1,1300,Laptop,Smart

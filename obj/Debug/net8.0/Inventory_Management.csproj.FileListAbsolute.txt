@@ -1,0 +1,14 @@
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\bin\Debug\net8.0\Inventory_Management.exe
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\bin\Debug\net8.0\Inventory_Management.deps.json
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\bin\Debug\net8.0\Inventory_Management.runtimeconfig.json
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\bin\Debug\net8.0\Inventory_Management.dll
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\bin\Debug\net8.0\Inventory_Management.pdb
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.AssemblyInfoInputs.cache
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.AssemblyInfo.cs
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.csproj.CoreCompileInputs.cache
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.dll
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\refint\Inventory_Management.dll
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.pdb
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.genruntimeconfig.cache
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\ref\Inventory_Management.dll
