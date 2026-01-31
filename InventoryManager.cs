@@ -135,7 +135,7 @@ public class InventoryManager
     public void SaveToFile()
     {
         // Overwrite file with current products
-        using (StreamWriter writer = new StreamWriter(FILE_NAME, false)) // false = overwrite
+        using (StreamWriter writer = new StreamWriter(FILE_NAME, false))
         {
             foreach (Product p in products)
             {
@@ -164,7 +164,7 @@ public class InventoryManager
 
             if (parts.Length < 6)
             {
-                Console.WriteLine($"Skipping invalid line: {line}");
+                Console.WriteLine(line);
                 continue;
             }
 

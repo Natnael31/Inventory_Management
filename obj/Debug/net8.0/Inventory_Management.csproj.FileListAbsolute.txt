@@ -12,3 +12,4 @@ D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\refint\Inv
 D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.pdb
 D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.genruntimeconfig.cache
 D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\ref\Inventory_Management.dll
+D:\WebMaterials\naty\BYU\CSE310\Inventory_Management\obj\Debug\net8.0\Inventory_Management.sourcelink.json

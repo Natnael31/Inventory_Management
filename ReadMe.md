@@ -27,13 +27,11 @@ It does all of the following tasks:
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- [Freecodecamp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
 ## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Integrate it with sql DB system like postgresql
+- Add a UI
+- Expand the inventory system parameters
