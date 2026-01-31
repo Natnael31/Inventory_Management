@@ -15,7 +15,7 @@ It does all of the following tasks:
 - Save inventory to a file
 - Load inventory from a file
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/WmiNFP2Cnyw)
 
 ## Development Environment
 
